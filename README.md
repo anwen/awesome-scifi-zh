@@ -6,6 +6,7 @@
 - 狄拉克海: 创建无数种宇宙  http://dirac-sea.wikidot.com/
 - https://tieba.baidu.com/f?ie=utf-8&kw=%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4
 - 水木社区-科幻奇幻文学俱乐部 https://www.newsmth.net/nForum/#!board/SFFantasyClub?p=39
+- 在做一个科幻内容社区， 可以tg或者wx联系 askender
 
 ## 科幻作者博客/播客
 - https://www.zuozuovera.com/
