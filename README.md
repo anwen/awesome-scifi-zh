@@ -24,7 +24,6 @@
 - https://github.com/sindresorhus/awesome-scifi
 - https://www.0gsf.com/sflinks  
 - https://www.0gsf.com/
-- 
 
 ## 短片科幻叙事
 - 黑镜系列
@@ -32,3 +31,5 @@
 - Oats Studios https://oatsstudios.com/
 - 废土风格短片小说合集 
   - 《废土：西方名家末世故事集》https://weread.qq.com/web/reader/81432fd0717057738144314kc4c329b011c4ca4238a0201
+- Simon Stålenhag 环形物语/洪水来客/电幻国度科幻插画系列 https://www.simonstalenhag.se
+  - 环形物语出了同名美剧 https://movie.douban.com/subject/30277286/
