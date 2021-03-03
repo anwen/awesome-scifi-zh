@@ -33,3 +33,4 @@
   - 《废土：西方名家末世故事集》https://weread.qq.com/web/reader/81432fd0717057738144314kc4c329b011c4ca4238a0201
 - Simon Stålenhag 环形物语/洪水来客/电幻国度科幻插画系列 https://www.simonstalenhag.se
   - 环形物语出了同名美剧 https://movie.douban.com/subject/30277286/
+- They're Made out of Meat https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html
