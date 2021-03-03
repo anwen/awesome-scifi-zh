@@ -34,3 +34,6 @@
 - Simon Stålenhag 环形物语/洪水来客/电幻国度科幻插画系列 https://www.simonstalenhag.se
   - 环形物语出了同名美剧 https://movie.douban.com/subject/30277286/
 - They're Made out of Meat https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html
+
+## 电影推荐
+- 有哪些经典的科幻电影值得推荐？ https://www.zhihu.com/question/28237252
