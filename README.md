@@ -8,6 +8,9 @@
 - https://tieba.baidu.com/f?ie=utf-8&kw=%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4
 - 水木社区-科幻奇幻文学俱乐部 https://www.newsmth.net/nForum/#!board/SFFantasyClub?p=39
 - 在做一个科幻内容社区， 可以tg或者wx联系 askender
+- https://www.0gsf.com/sflinks  
+- https://www.0gsf.com/
+- https://www.0gsf.com/wiki/doku.php
 
 ## 科幻作者博客/播客
 - https://www.zuozuovera.com/
@@ -22,8 +25,7 @@
 
 ## 英文网站
 - https://github.com/sindresorhus/awesome-scifi
-- https://www.0gsf.com/sflinks  
-- https://www.0gsf.com/
+
 
 ## 短片科幻叙事
 - 黑镜系列
